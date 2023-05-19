@@ -1,0 +1,76 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Leila",
+      "body": "Lox Lox Lox Lox Lox Lox Lox Lox Lox Lox Lox Lox",
+      "favorite": false
+    },
+    {
+      "id": 2,
+      "title": "Dasha",
+      "body": "Lox Lox Lox Lox Lox Lox Lox Lox Lox Lox Lox Lox",
+      "favorite": true
+    },
+    {
+      "id": 3,
+      "title": "Dasha",
+      "body": "Lox Lox Lox Lox Lox Lox Lox Lox Lox Lox Lox Lox",
+      "favorite": true
+    },
+    {
+      "id": 4,
+      "title": "Dasha",
+      "body": "Lox Lox Lox Lox Lox Lox Lox Lox Lox Lox Lox Lox",
+      "favorite": true
+    },
+    {
+      "id": 5,
+      "title": "Danil",
+      "body": "Lox Lox Lox Lox Lox Lox Lox Lox Lox Lox Lox Lox",
+      "favorite": false
+    },
+    {
+      "id": 6,
+      "title": "Danil",
+      "body": "Lox Lox Lox Lox Lox Lox Lox Lox Lox Lox Lox Lox",
+      "favorite": false
+    },
+    {
+      "id": 7,
+      "title": "Vika",
+      "body": "Lox Lox Lox Lox Lox Lox Lox Lox Lox Lox Lox Lox",
+      "favorite": false
+    },
+    {
+      "id": 8,
+      "title": "Leila",
+      "body": "Lox Lox Lox Lox Lox Lox Lox Lox Lox Lox Lox Lox",
+      "favorite": false
+    },
+    {
+      "id": 9,
+      "title": "Barni",
+      "body": "Lox Lox Lox Lox Lox Lox Lox Lox Lox Lox Lox Lox",
+      "favorite": false
+    },
+    {
+      "id": 10,
+      "title": "Brabus",
+      "body": "Lox Lox Lox Lox Lox Lox Lox Lox Lox Lox Lox Lox",
+      "favorite": false
+    },
+    {
+      "id": 11,
+      "title": "Barni",
+      "body": "Lox Lox Lox Lox Lox Lox Lox Lox Lox Lox Lox Lox",
+      "favorite": false
+    },
+    {
+      "id": 12,
+      "title": "Brabus",
+      "body": "Lox Lox Lox Lox Lox Lox Lox Lox Lox Lox Lox Lox",
+      "favorite": false
+    }
+  ]
+}
