@@ -1,0 +1,22 @@
+.container input{
+    width: 400px;
+    height: 35px;
+    border-radius: 6px;
+    border: 1px solid black;
+    outline: none;
+    margin-top: 50px;
+    padding: 0px 0px 0px 20px;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    transition: .3s ease;
+}
+
+.container input:hover{
+    border: 1px solid #1390E5;
+    transition: .3s ease-in;
+}
+
+.container input:focus{
+    border: 1px solid rgb(19, 144, 229);
+    background-color: rgba(197, 228, 249, .3);
+}
