@@ -1,0 +1,26 @@
+.item{
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 4px 10px 4px;
+    padding: 10px 20px;
+    width: 600px;
+}
+
+.item .title{
+    display: flex;
+    justify-content: space-between;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.item .title i{
+    transition: .3s ease-in;
+}
+
+.item .title i:hover{
+    color: red;
+    cursor: pointer;
+    transition: .3s ease-out;
+}
+
+.item:not(:last-child){
+    margin-bottom: 20px;
+}
